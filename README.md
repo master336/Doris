@@ -10,4 +10,5 @@
 - High performance. Less 4 ms for commonly data access.
 - Easy operation. Auto failover and data recover when server is crashed. Easy add servers to Doris cluster with web interface.
 - Optimized consistence hash algorithm. More balance on distributed data than traditional consistence hash algorithm.
-
+来源于《大型网站技术架构》
+海量分布式存书系统Doris
